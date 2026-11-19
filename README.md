@@ -89,3 +89,4 @@ Among individual conditions, the **Inquiry flag (20.4%)** and **Utilization flag
 **Business Value:** The dashboard gives the credit team a single place to monitor portfolio performance, compare borrower segments, and identify patterns worth investigating. These findings can support further credit risk analysis and data-quality improvements, but should be validated before being used in lending decisions.
 
 ## 7. Screenshots
+https://github.com/sameeksha1111/loan-default-risk-analysis/blob/main/screenshots/overview.png 
