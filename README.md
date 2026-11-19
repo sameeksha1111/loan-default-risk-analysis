@@ -90,3 +90,4 @@ Among individual conditions, the **Inquiry flag (20.4%)** and **Utilization flag
 
 ## 7. Screenshots
 https://github.com/sameeksha1111/loan-default-risk-analysis/blob/main/screenshots/overview.png 
+https://github.com/sameeksha1111/loan-default-risk-analysis/blob/main/screenshots/risk_analysis.png
